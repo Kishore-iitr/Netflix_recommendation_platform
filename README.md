@@ -6,6 +6,8 @@ APP LINK: [LINK](https://netflix-recommendation-platform.onrender.com/)
 
 DEMO : [LINK]()
 
+Presentation: [LINK] (https://iitracin-my.sharepoint.com/:p:/g/personal/kishore_s_ph_iitr_ac_in/IQB2ouDz-tuwR6HP4WOpFyrLAaT9lYu2SOZqDRRwGnT4Gr4?e=VYQhHb)
+
 
 
 ## Overview
