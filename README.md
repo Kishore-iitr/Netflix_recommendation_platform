@@ -1,5 +1,11 @@
 # Netflix Prize Recommendation System
 
+Datailed EDA : [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_iitr_ac_in/IQCBQ-io3gvOS7iAdLJtR9j1AfwIMdpkTwU_A2FsVxBO9wg?e=8A7VPE)
+APP LINK: [lINK]()
+DEMO : [LINL]()
+
+
+
 ## Overview
 This repository implements an interactive **Streamlit** based recommendation system built **exclusively on the Netflix Prize dataset**. Users can:
 - Explore the data (distribution of ratings, most‑rated movies).
