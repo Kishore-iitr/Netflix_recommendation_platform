@@ -2,7 +2,7 @@
 
 Datailed EDA : [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_iitr_ac_in/IQCBQ-io3gvOS7iAdLJtR9j1AfwIMdpkTwU_A2FsVxBO9wg?e=8A7VPE)
 
-APP LINK: [LINK]([https://netflix-recommendation-platform.onrender.com/](https://netflixrecommendationplatformbest.streamlit.app/))
+APP LINK: [LINK](https://netflixrecommendationplatformbest.streamlit.app/)
 
 Report: [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_iitr_ac_in/IQBMFjAMGaC-Qo9WubIPeDSeAUsMKxMzfr6PvmWD44V8CjM?e=rTczAu)
 
