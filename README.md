@@ -1,8 +1,10 @@
 # Netflix Prize Recommendation System
 
 Datailed EDA : [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_iitr_ac_in/IQCBQ-io3gvOS7iAdLJtR9j1AfwIMdpkTwU_A2FsVxBO9wg?e=8A7VPE)
-APP LINK: [lINK]()
-DEMO : [LINL]()
+
+APP LINK: [LINK](https://netflix-recommendation-platform.onrender.com/)
+
+DEMO : [LINK]()
 
 
 
