@@ -81,5 +81,4 @@ Or double‑click `run.bat`.
 ## License
 MIT License – feel free to fork, modify, and use for academic or personal projects.
 
----
-*Built with ✨ modern UI aesthetics, dynamic progress bars, and explainable AI.*
+
