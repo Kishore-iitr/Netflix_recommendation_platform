@@ -1,0 +1,11 @@
+pandas
+streamlit
+matplotlib
+seaborn
+scikit-learn
+numpy
+scipy
+surprise
+optuna
+xgboost
+requests
