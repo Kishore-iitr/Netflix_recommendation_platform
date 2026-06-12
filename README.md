@@ -2,11 +2,13 @@
 
 Datailed EDA : [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_iitr_ac_in/IQCBQ-io3gvOS7iAdLJtR9j1AfwIMdpkTwU_A2FsVxBO9wg?e=8A7VPE)
 
-APP LINK: [LINK](https://netflix-recommendation-platform.onrender.com/)
+APP LINK: [LINK]([https://netflix-recommendation-platform.onrender.com/](https://netflixrecommendationplatformbest.streamlit.app/))
 
-DEMO : [LINK]()
+Report: [LINK](https://iitracin-my.sharepoint.com/:b:/g/personal/kishore_s_ph_iitr_ac_in/IQBMFjAMGaC-Qo9WubIPeDSeAUsMKxMzfr6PvmWD44V8CjM?e=rTczAu)
 
-Presentation: [LINK] (https://iitracin-my.sharepoint.com/:p:/g/personal/kishore_s_ph_iitr_ac_in/IQB2ouDz-tuwR6HP4WOpFyrLAaT9lYu2SOZqDRRwGnT4Gr4?e=VYQhHb)
+DEMO : [LINK](https://iitracin-my.sharepoint.com/:v:/g/personal/kishore_s_ph_iitr_ac_in/IQDi-Ha-Qz5uRr1t2urp2NLQATwPDIFd2rTOoLiexWPgIyk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nvbk1q)
+
+Presentation: [LINK](https://iitracin-my.sharepoint.com/:p:/g/personal/kishore_s_ph_iitr_ac_in/IQB2ouDz-tuwR6HP4WOpFyrLAaT9lYu2SOZqDRRwGnT4Gr4?e=VYQhHb)
 
 
 
